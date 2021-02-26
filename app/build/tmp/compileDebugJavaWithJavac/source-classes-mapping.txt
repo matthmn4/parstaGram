@@ -1,0 +1,27 @@
+com/example/parstagram/Fragments/PostsFragment.java
+ com.example.parstagram.Fragments.PostsFragment
+ com.example.parstagram.Fragments.PostsFragment$1
+com/example/parstagram/Fragments/ComposeFragment.java
+ com.example.parstagram.Fragments.ComposeFragment
+ com.example.parstagram.Fragments.ComposeFragment$1
+ com.example.parstagram.Fragments.ComposeFragment$2
+ com.example.parstagram.Fragments.ComposeFragment$3
+com/example/parstagram/ParseApplication.java
+ com.example.parstagram.ParseApplication
+com/example/parstagram/Fragments/ProfileFragment.java
+ com.example.parstagram.Fragments.ProfileFragment
+ com.example.parstagram.Fragments.ProfileFragment$1
+com/example/parstagram/BuildConfig.java
+ com.example.parstagram.BuildConfig
+com/example/parstagram/MainActivity.java
+ com.example.parstagram.MainActivity
+ com.example.parstagram.MainActivity$1
+com/example/parstagram/PostsAdapter.java
+ com.example.parstagram.PostsAdapter
+ com.example.parstagram.PostsAdapter$ViewHolder
+com/example/parstagram/LoginActivity.java
+ com.example.parstagram.LoginActivity
+ com.example.parstagram.LoginActivity$1
+ com.example.parstagram.LoginActivity$2
+com/example/parstagram/Post.java
+ com.example.parstagram.Post
